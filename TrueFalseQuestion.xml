@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<name>
+		<text>Demo question à choix smart ou pas </text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est le sens de la vie ?</text>
+	</questiontext>
+
+	<answer fraction="100">
+		<text>Rechercher l'avenir</text>
+		<feedback>
+			<text>Yeahhh tu pourras avancer dans la vie</text>
+		</feedback>
+	</answer>
+
+	<answer fraction="0">
+		<text>ecrire du xml</text>
+		<feedback>
+			<text>Ooops! le xml c'est comme quelque chose de radioactive evite d'en manipuler</text>
+		</feedback>
+	</answer>
+</question>
